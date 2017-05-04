@@ -1,0 +1,34 @@
+
+    <div class="container">
+      <nav class="navbar navbar-default">
+        <ul class="nav navbar-nav">
+          <li> <a href="#">Accueil</a> </li>
+          <li> <a href="#">Liens</a> </li>
+          <li class="dropdown"> <!--- MENU DEROULANT-->
+            <a data-toggle="dropdown" href="#">Tricks<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">HTML</a></li>
+              <li><a href="#">CSS</a></li>
+              <li><a href="#">Bootstrap</a></li>
+              <li class="divider"></li>
+              <li><a href="#">Autres témoignages</a></li>
+              </ul>
+              <li class="dropdown"> <!--- MENU DEROULANT-->
+            <a data-toggle="dropdown" href="#">Parcours<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><span class="dropdown-header"><a href="#"> Professionnel</span></a></li><!-- EN TETE-->
+              <li><span class="glyphicon glyphicon-education"><a href="#"> Expériences</span></a></li>
+              <li><span class="glyphicon glyphicon-education"><a href="#"> Diplômes</span></a></li>
+              <li class="divider"></li>
+            </ul>
+          </li>
+          <li class="dropdown"> 
+          <a data-toggle="dropdown" href="#">Contact<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+          <li><span class="glyphicon glyphicon-envelope"><a href="#"> Mail</span></a></li>
+          <li><span class="glyphicon glyphicon-phone"><a href="#"> Phone</span></a></li>
+        </ul>
+      </nav>
+    </div>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
