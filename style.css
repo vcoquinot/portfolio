@@ -24,24 +24,31 @@
 	margin-bottom : 10px;
 }
 
-h1, .fancy-button {
-    color: black;
+h1, h3 {
     font-family: 'comic_zine_otregular';
 }
 
 h1 {
     font-size: 50px;
     padding-top:10px;
+    color:#a80324;
 }
+
 
 p {
 	padding-bottom: 10px;
-    font-size: 20px;
-        padding-bottom:40px;
+    font-size:20px;
+
 }
 
-.fancy-button {
-	margin-top: 10px;
+.fa-arrow-circle-right {
+	color:#a80324;
+	font-size:20px;
+	padding-bottom:40px;
+}
+
+h3 {
+	font-size:30px;
 }
 
  #BD img {
