@@ -21,7 +21,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 <!-- fin -->
-    <title>Candidature Simplon</title>
+    <title>TITRE</title>
   </head>
 
 <body>
@@ -62,11 +62,11 @@
       <div class="col-md-1"><img src="image/star.jpg" alt="star">
       </div>
       <div class="col-md-6 row text-center">
-        <h1><strong>SUPER-HÉROÏNE ?</strong></h1>
-        <p><strong>Parce que la cape, le collant ou le masque, c'est pas trop mon style, je préfère les héros plus "communs" !</strong><br/>Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere. in quibus hoc primum est in quo admirer, cur in gravissimis rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e Graecis expressas non inviti legant. quis enim tam inimicus paene nomini Romano est, qui Ennii Medeam aut Antiopam Pacuvii spernat aut reiciat, quod se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit?<br/>
+        <h1><strong>QUESTION ?</strong></h1>
+        <p><strong>TEXTE !</strong><br/>Iis igitur est difficilius satis facere, qui se Latina scripta dicunt contemnere. in quibus hoc primum est in quo admirer, cur in gravissimis rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e Graecis expressas non inviti legant. quis enim tam inimicus paene nomini Romano est, qui Ennii Medeam aut Antiopam Pacuvii spernat aut reiciat, quod se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit?<br/>
           <button class="fancy-button">
             <div class="left-frills frills"></div>
-              <div class="button">LE POURQUOI DU COMMENT !</div>
+              <div class="button">ww !</div>
                 <div class="right-frills frills"></div>
           </button>
         </p>
