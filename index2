@@ -1,0 +1,79 @@
+  <!DOCTYPE html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MON TITRE</title>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="style.css" type="text/css">
+   </head>
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar">
+
+<header>
+
+      <!-- Navigation
+      ================================================== -->
+  <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#page-top">Valérie Coquinot</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav pull-right">
+            <li class="hidden"><a href="#page-top"></a></li>
+            <li><a href="#accueil">Accueil</a></li>
+            <li><a href="#">RUB2</a></li>
+            <li><a href="#">RUB3</a></li>
+            <li><a href="#">Rub4</a></li>
+            <li><a href="#footer">Contact</a></li>
+          </ul>
+        </div>
+    </div>
+  </nav>
+</header>
+
+
+
+    <!-- Corps de page 
+    ================================================== -->
+    <div class="container-fluid">
+
+      <div class="jumbotron" id="accueil">
+        <div class="col-md-1"><img src="image/hero_1.jpg" alt="Wondewoman"></div>
+        
+        <div class="col-md-8 row text-center">
+        <h1><img src="image/star.jpg" alt="star"> QUESTION ? <img src="image/star.jpg" alt="star"></h1>
+          <p><strong>Lorem ipsum... <br/>NAN pas mon style !</strong><br/>Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi<br/>Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi.<br/></p>
+          <h3><strong>Le pourquoi du comment </strong><a href=""><i class="fa fa-arrow-circle-right fa-1x"></i></a></h3>
+        </div>
+       
+        <div class="col-md-1"><img src="image/hero.jpg" alt="Batman"></div>
+        </div>
+      </div>
+  </div>
+
+  <!-- RUB1 part I-->
+
+<div class="container" id ="RUB1">
+<h1 class="text-center">Titre</h1>
+        <img class="col-sm-10 col-md-4" src="image/logo_parcours.png" alt="">     
+        <p class="col-sm-12 col-md-7">Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.</p>
+      </div>
